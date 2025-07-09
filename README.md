@@ -1,7 +1,7 @@
 # Sensōra: A Decentralized Peer-to-Peer IoT Data Marketplace
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/msmrez/sensora/main/sensora_logo.png" alt="Sensōra Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/msmrez/sensora/main/logo.png" alt="Sensōra Logo" width="200"/>
 </p>
 
 <p align="center">
